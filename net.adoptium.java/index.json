@@ -42,7 +42,7 @@
         {
             "recommended": false,
             "releaseTime": "2023-10-10T13:55:52+00:00",
-            "sha256": "2a3a0780b5c6608b93cd215aebe7d65ab5afffaaa501d0768f8766cb3e0ed8cd",
+            "sha256": "04939e9edbfd15f756326b87ef77cc26f68fd1449d88ac897385d9447ca88d07",
             "version": "java21"
         },
         {
@@ -66,7 +66,7 @@
         {
             "recommended": false,
             "releaseTime": "2021-10-27T13:36:51+00:00",
-            "sha256": "0bf9de174e035a33be426f1bf7d77845a688d00dd97767552faaddbec0b6ed98",
+            "sha256": "0ea1e13133c2384855f28b5cc6d670d3c58e5f8c1a1d79aaf45d3a550f3cebc4",
             "version": "java17"
         },
         {
